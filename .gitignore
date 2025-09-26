@@ -1,0 +1,9 @@
+﻿__pycache__/
+*.pyc
+.env
+.env.local
+secrets/
+config/secret*
+*.backup
+.DS_Store
+.ipynb_checkpoints/
