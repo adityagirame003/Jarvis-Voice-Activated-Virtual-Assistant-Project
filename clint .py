@@ -1,4 +1,4 @@
-﻿from openai import OpenAI
+from openai import OpenAI
 import os
 
 # Use environment variable for API key
